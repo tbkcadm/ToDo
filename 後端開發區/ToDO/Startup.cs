@@ -21,6 +21,7 @@ namespace ToDO
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+            //gg
         }
 
         public IConfiguration Configuration { get; }
